@@ -1,2 +1,6 @@
 # Whitelist
 !**.c
+
+# Blacklist
+*.out
+*
